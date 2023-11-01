@@ -33,6 +33,12 @@ body {
 
 header {
   background: #585c7c;
+  position: fixed;
+  width: 100%;
+
+}
+main {
+  padding-top: 148px;
 }
 
 .pg-padding {
